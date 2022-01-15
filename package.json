@@ -1,0 +1,17 @@
+{
+  "name": "ts_func_flat",
+  "version": "1.0.0",
+  "description": "typescript study",
+  "main": "index.js",
+  "scripts": {
+    "test": "typescript"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "R.Tsvietik",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
